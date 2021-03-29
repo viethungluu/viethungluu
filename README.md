@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @viethungluu
+- 👀 I’m interested in applying AI on real world problems
+- 🌱 I’m currently working on PropTech
+- 📫 Reach me at hunglv@piv.asia
