@@ -3,6 +3,6 @@ I got my BSc, and MSc in the field of Computer Science from VNU University of En
 
 Since 12/2019, I moved to IT industry and worked as data scientist holding various positions from senior title to tech lead. For more information about my journey, please visit my [Linkedin](https://www.linkedin.com/in/hunglv/).
 
-As of 01/2021, I become CEO at [FIMO JSC](https://fimo.vn) focus on spatial data & AI technology.
+As of 01/2021, I become COO at [FIMO JSC](https://fimo.vn) focus on spatial data & AI technology.
 
 📫 Reach me at hunglv@fimo.vn
